@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-11-25T10:48:26.873554400Z</date>
+  <millis>1732531706873</millis>
+  <nanos>554400</nanos>
+  <sequence>0</sequence>
+  <logger>com.checkers.util.LoggerUtil</logger>
+  <level>INFO</level>
+  <class>com.checkers.util.LoggerUtil</class>
+  <method>logInfo</method>
+  <thread>1</thread>
+  <message>Хід виконано: w</message>
+</record>
+<record>
+  <date>2024-11-25T10:48:26.885113400Z</date>
+  <millis>1732531706885</millis>
+  <nanos>113400</nanos>
+  <sequence>1</sequence>
+  <logger>com.checkers.util.LoggerUtil</logger>
+  <level>INFO</level>
+  <class>com.checkers.util.LoggerUtil</class>
+  <method>logInfo</method>
+  <thread>1</thread>
+  <message>Хід виконано: B6 C5</message>
+</record>
